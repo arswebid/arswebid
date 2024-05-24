@@ -1,3 +1,1 @@
-### Hi, Im not Robot! 👋
-
-# change the world with code!
+### it's time to play with code.. 👋
